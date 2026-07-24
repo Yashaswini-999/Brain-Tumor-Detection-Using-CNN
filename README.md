@@ -65,7 +65,7 @@ BrainTumorDetectionCNN
 
 ## 📊 Results
 
-- Test Accuracy: **90%+**
+- Test Accuracy: **86%+**
 - Binary Classification
 - Prediction Score with Confidence
 
