@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+braintumor/
+
+# VS Code
+.vscode/
+
+# Model Files
+*.h5
+*.keras
+
+# Dataset
+dataset/
+
+# Images
+*.png
+
+# System Files
+.DS_Store
+Thumbs.db
